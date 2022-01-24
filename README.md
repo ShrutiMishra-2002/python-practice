@@ -30,7 +30,14 @@
 
 ## 📌 Tech Stack:
 <br><br>
-![python](https://img.shields.io/badge/python%20-%23E34F26.svg?&style=for-the-badge&logo=python&logoColor=white)
+![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+
+![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![panda](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![matplolib](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+
+
+
 
 <br><br>
 
