@@ -15,10 +15,15 @@
 | -   | -                           | -     |
 | 1. | Hello world                  | basic |
 | 2. | Add two nos                  | basic |
-| 3. | Multiply two nos             | basic |
-| 4. | Ascii character              | basic |
-| 5. | Quotient and remainder       | basic |
-| 6. | Example for input from user  | basic |
+| 3. | Example for variable   | basic |
+| 4. | Example for input from user  | basic |
+| 5. | Multiply two nos             | for loop |
+| 6. | Sum of all nos in range      | for loop |
+| 7. | Quotient and remainder       | math module |
+| 8. | power of a no       | math module |
+| 9. | sqrt of a no       | math module |
+| 10. | max and min using module       | math module |
+
 
 
 <br><br>
