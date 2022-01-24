@@ -14,11 +14,11 @@
 |Sr.no| Program name                | Types |
 | -   | -                           | -     |
 | 1. | Hello world                  | basic |
-| 2. | add two nos                  | basic |
-| 3. | multiply two nos             | basic |
-| 4. | ascii character              | basic |
-| 5. | quotient and remainder       | basic |
-| 6. | input from user              | basic |
+| 2. | Add two nos                  | basic |
+| 3. | Multiply two nos             | basic |
+| 4. | Ascii character              | basic |
+| 5. | Quotient and remainder       | basic |
+| 6. | Example for input from user  | basic |
 
 
 <br><br>
