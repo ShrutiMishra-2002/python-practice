@@ -20,9 +20,10 @@
 | 5. | Multiply two nos             | for loop |
 | 6. | Sum of all nos in range      | for loop |
 | 7. | Quotient and remainder       | math module |
-| 8. | power of a no       | math module |
-| 9. | sqrt of a no       | math module |
+| 8. | power of a no                | math module |
+| 9. | sqrt of a no                 | math module |
 | 10. | max and min using module       | math module |
+| 11. | round of and up                | math module |
 
 
 
